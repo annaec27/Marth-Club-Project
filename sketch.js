@@ -7,8 +7,8 @@ function draw() {
   ellipse( mouseX , mouseY , 100 , 100 );
   fill(255, 255, 102, 150);
    ellipse(mouseX, mouseY, 50, 50);
-  fill(153, 255, 102, 100);
+  fill(255, 153, 51, 100);
   ellipse(mouseX, mouseY, 75, 75);
-  fill(255, 153, 151, 200);
+  fill(153, 255, 51, 200);
   ellipse(mouseX, mouseY, 25, 25);
 }
