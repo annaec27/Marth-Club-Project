@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-  fill(150, 2, 10, 50);
+  fill(0, 255, mouseX*.3, 50);
   rect( mouseX , mouseY , 100 , 100 );
 }
